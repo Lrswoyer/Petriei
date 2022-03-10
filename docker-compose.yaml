@@ -1,5 +1,5 @@
 services:
-  petriei8:
+  petriei9:
     build: .
     shm_size: 2.6gb
     ports:
